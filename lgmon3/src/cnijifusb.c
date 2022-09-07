@@ -39,7 +39,7 @@
 #include <signal.h>
 #include <poll.h>
 
-#include <libusb.h>
+#include <libusb-1.0/libusb.h>
 #include "cnijcomif.h"
 #include "cnijlgmon3.h"
 #include "cnijifusb.h"

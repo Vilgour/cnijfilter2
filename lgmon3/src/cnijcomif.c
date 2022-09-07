@@ -33,7 +33,7 @@
 #include <netdb.h>
 #include <sys/types.h>
 #include <sys/time.h>
-#include <libusb.h>
+#include <libusb-1.0/libusb.h>
 
 #include "cnijlgmon3.h"
 #include "cnijcomif.h"
