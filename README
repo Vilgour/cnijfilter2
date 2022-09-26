@@ -1,3 +1,10 @@
+Warning (from Vilgour, 26/09/2022) :
+This is still work in progress . I'm trying to build it as a guix package but so dirty that I don't make it available for now, it makes no sense.
+Anyway, I think it has no chance to work as it is. 
+You can install it manually (shortly by following instructions in cnijfilter.spec) but CUPS won't be able to locate the filters.
+
+-----
+
 How to build rpm:
 =================
     * When you build one printer driver package.
